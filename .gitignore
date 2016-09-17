@@ -80,6 +80,6 @@ Thumbs.db
 # add your own entries here
 !wp-content/plugins/example-plugin/
 !wp-content/themes/vista-nova/
+!wp-content/themes/alvarez-one-page
 #ignore these files in theme
 wp-content/themes/vista-nova/.DS_Store
-
